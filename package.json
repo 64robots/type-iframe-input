@@ -1,0 +1,24 @@
+{
+  "name": "type-iframe-input",
+  "version": "0.0.1",
+  "description": "Writes a focused input in an iframe from the parent using Postmate",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/64robots/type-iframe-input.git"
+  },
+  "keywords": [
+    "postmate",
+    "type",
+    "input"
+  ],
+  "author": "64 Robots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/64robots/type-iframe-input/issues"
+  },
+  "homepage": "https://github.com/64robots/type-iframe-input#readme"
+}
